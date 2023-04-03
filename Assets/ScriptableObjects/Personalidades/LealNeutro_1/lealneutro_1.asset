@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 993b20b097c55054eb41abab032fd55a, type: 3}
+  m_Name: lealneutro_1
+  m_EditorClassIdentifier: 
+  dialogues:
+  - {fileID: 11400000, guid: d2fd189504983ec4585d6f44caf2f420, type: 2}
+  - {fileID: 11400000, guid: bb5f9b62e422e374f9ea06e7526d6c83, type: 2}
+  - {fileID: 11400000, guid: 044c50c6c805fe5419942c7c2abe7b8c, type: 2}
+  - {fileID: 11400000, guid: 23b752814f5eadf428f2759039440a27, type: 2}
+  - {fileID: 11400000, guid: 4f37c345b795568418a60359c60716a3, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250ba186b5df1e849a8574580950e4bf, type: 3}
+  m_Name: Doencas-0
+  m_EditorClassIdentifier: 
+  doencas:
+  - {fileID: 11400000, guid: 2da8d683ef794d4469b2d7ad9169e201, type: 2}
+  - {fileID: 11400000, guid: 21b2cbc6e472e9541bfba196863286a9, type: 2}
+  - {fileID: 11400000, guid: 6e7777c36d434df44bf3bd448f2d82e1, type: 2}

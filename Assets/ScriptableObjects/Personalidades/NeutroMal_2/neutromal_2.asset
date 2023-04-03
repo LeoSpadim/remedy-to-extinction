@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 993b20b097c55054eb41abab032fd55a, type: 3}
+  m_Name: neutromal_2
+  m_EditorClassIdentifier: 
+  dialogues:
+  - {fileID: 11400000, guid: 885390adf36d1524ab7984e84e9b6cf5, type: 2}
+  - {fileID: 11400000, guid: 4ad44a97773b65f4991468284f28b6a1, type: 2}
+  - {fileID: 11400000, guid: 071960548ac47954b9cb4fe0607cc9d3, type: 2}
+  - {fileID: 11400000, guid: d714d20b1fcc2b246ab00a25803dd365, type: 2}
+  - {fileID: 11400000, guid: ab686aee29b112843837d688b121fb12, type: 2}

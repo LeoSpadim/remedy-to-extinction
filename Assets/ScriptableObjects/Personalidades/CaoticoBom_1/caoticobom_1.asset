@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 993b20b097c55054eb41abab032fd55a, type: 3}
+  m_Name: caoticobom_1
+  m_EditorClassIdentifier: 
+  dialogues:
+  - {fileID: 11400000, guid: be1f000c2f5823946a85acd5f27cbee2, type: 2}
+  - {fileID: 11400000, guid: 294e3008c6cc8c4448a2eb939ecdc6cb, type: 2}
+  - {fileID: 11400000, guid: d12356628cf66594e982e3457268470e, type: 2}
+  - {fileID: 11400000, guid: 3f127e0adcf2cc349bbff40a3bade4db, type: 2}
+  - {fileID: 11400000, guid: 7e23f79fa9293c84db2a8e5c76cd2c7a, type: 2}

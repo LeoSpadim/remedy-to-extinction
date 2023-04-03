@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a5ff95b7d42464bb46b33d9074836f, type: 3}
+  m_Name: Dialog 2
+  m_EditorClassIdentifier: 
+  dialogue: {fileID: 11400000, guid: aca05b8eba4929b469c25e0cfb139b79, type: 2}
+  nextDialogue: {fileID: 11400000, guid: 5c57e1b19d9887b47bff5a91e314b5ce, type: 2}
+  extraTime: 4
+  timeForAlternative: 6
+  parent_objectToActivate_s: Parent Laudo
+  parent_objectToWaitFor_s: Canvas
+  objectToWaitFor_s: BotoesLaudo
+  objectToActivate_s: Laudo
+  alternativeDialog: {fileID: 11400000, guid: e699ff557e54af34eabcc736a753ad60, type: 2}

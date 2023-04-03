@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7478812cbdc743e409e35b3e38c0b6f6, type: 3}
+  m_Name: tutorial4
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Ao identificar a qual muta\xE7\xE3o os sintomas que o paciente apresenta se
+    referem, use o Caderno de Tratamentos para selecionar o tratamento adequado."
+  - "Aqui voc\xEA encontrar\xE1 tr\xEAs rem\xE9dios que inibir\xE3o os sintomas do
+    parasita; al\xE9m de um placebo e um mutag\xEAnico."
+  - "No seuprimeiro dia voc\xEA ter\xE1 acesso apenas ao rem\xE9dio C-0, os outros
+    ainda precisam ser pesquisados para confirmar sua efic\xE1cia."
+  - "O Mutag\xEAnico M-TT for\xE7ar\xE1 a muta\xE7\xE3o dos sintomas do parasita.
+    Tome cuidado com este, pois ir\xE1 causar uma piora nos sintomas daquele paciente."
+  - "Contudo, isso ir\xE1 ajudar na pesquisa de novos padr\xF5es de sintomas."
+  - "Sabendo de como age o Estado, voc\xEA tamb\xE9m ter\xE1 acesso a unidades do
+    Placebo P-NN."
+  - "Ele permite que voc\xEA use seus outros recursos em situa\xE7\xF5es que achar
+    melhor; contudo, n\xE3o ter\xE1 efeitos positivos ao paciente."
+  - "Voc\xEA pode passar o mouse em cima de um tratamento para verificar quantas
+    unidades daquele tipo o senhor ainda tem dispon\xEDvel."
+  - "No come\xE7o de cada dia eu irei te reabastecer com mais unidades. N\xE3o se
+    preocupe se algum deles acabar."

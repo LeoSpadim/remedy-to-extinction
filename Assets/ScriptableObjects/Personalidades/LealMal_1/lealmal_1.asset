@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 993b20b097c55054eb41abab032fd55a, type: 3}
+  m_Name: lealmal_1
+  m_EditorClassIdentifier: 
+  dialogues:
+  - {fileID: 11400000, guid: e0cc8e1aaa0cbd5458301086d66f71cf, type: 2}
+  - {fileID: 11400000, guid: 533478f55ecb4b34f98f3e90e0d7d512, type: 2}
+  - {fileID: 11400000, guid: 66c3b21554e5a59408503ab607994f49, type: 2}
+  - {fileID: 11400000, guid: d99d958e1a3cd7a46bab6a70fe892eac, type: 2}
+  - {fileID: 11400000, guid: 9872ed7d7f57adc42ae9137c3547fa52, type: 2}

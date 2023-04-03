@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d80e10e6f40d68d4a8729cc574d50c63, type: 3}
+  m_Name: Descricoes_Pacientes
+  m_EditorClassIdentifier: 
+  infos:
+  - "N\xE3o tem parentes vivos; nunca se casou e mora sozinho(a) em um apartamento
+    de poucos metros quadrados; cuida de 6 gatos com problemas motores."
+  - "Mora com a m\xE3e, que sofre de obesidade; passa a maior parte do tempo no trabalhando;
+    seu maior sonho \xE9 pular de paraquedas."
+  - "Tem dois filhos de relacionamentos diferentes, os quais mant\xE9m boa rela\xE7\xE3o;
+    recentemente foi pego trapaceando em um jogo no casino; frequenta sempre o mesmo
+    caf\xE9 todas as manh\xE3s."
+  - "Adotou tr\xEAs crian\xE7as que seriam despejadas do abrigo; recentemente foi
+    promovida no seu emprego; sabe diferenciar a esp\xE9cie de um p\xE1ssaro apenas
+    pelo som emitido."
+  - "Est\xE1 atualmente no seu terceiro matrimonio; at\xE9 hoje trabalha na mesma
+    empresa do seu primeiro emprego; ganhou um campeonato de bocha no seu Distrito"
+  - "Casou-se muito jovem, divide a casa com os pais de seu conjugue; j\xE1 foi demitida
+    cinco vezes antes do trabalho atual; se considera uma pessoa muito apegada a
+    religi\xE3o."
+  - Cuida sozinho de um filho pequeno; trabalha formalmente durante a noite, e faz
+    bicos durante o dia; ganhou todas as medalhas do clube de escoteiros do seu Distrito
+  - "Mora sozinho em um apartamento bem localizado; sempre sonhou em trabalhar com
+    a profiss\xE3o atual; passa a maior parte do seu dia fazendo dancinhas em redes
+    sociais."
+  - "Divide a casa com um amigo que perdeu o emprego; est\xE1 cursando sua terceira
+    faculdade e trabalhando meio per\xEDodo; acredita que o Surf \xE9 uma inven\xE7\xE3o
+    do estado para vender cadernos."
+  - "Conquistou sua casa pr\xF3pria recentemente; faz o m\xEDnimo necess\xE1rio para
+    se manter empregado; tem um papagaio que constantemente arruma briga com a vizinhan\xE7a."
+  - "Paga aluguel de uma kitnet; tem mais atestados de sa\xFAde do que dias trabalhados;
+    participou de v\xE1rias gameJams, mas nunca ganhou nenhuma."
+  - "Mora com seu pai que est\xE1 debilitado devido a idade avan\xE7ada; ajuda uma
+    institui\xE7\xE3o carente do Distrito I com parte do seu sal\xE1rio; j\xE1 morou
+    em todos os tr\xEAs Distritos."
+  - "Mora com seus av\xF3s em uma casa grande na parte nobre do Distrito; est\xE1
+    respondendo judicialmente por roubo de uma barraquinha de cachorro-quente; tem
+    dois cachorros com nomes compostos."
+  - "Tem um apartamento na \xE1rea industrial Distrito, morar l\xE1 causou alguns
+    problemas respirat\xF3rios; n\xE3o consegue ficar mais de tr\xEAs meses no mesmo
+    emprego; j\xE1 ganhou duas vezes na loteria."
+  - "Foi morar com seu tio alc\xF3olatra ap\xF3s perder seu primeiro emprego; al\xE9m
+    do seu trabalho formal, atua com l\xEDder religioso de uma pequena comunidade
+    no seu Distrito; \xE9 Furry."
+  - "Mora sozinho na casa que ganhou de heran\xE7a ap\xF3s o falecimento de seu pai;
+    era envolvido com o crime antes do emprego atual; \xE9 o jogador mais baixo do
+    seu time de basquete."
+  - "Foi morar com seu padrasto depois de sua m\xE3e abandon\xE1-lo para ir morar
+    em outro Distrito; sofre de Burnout por trabalhar demais com medo de ser demitido;
+    nunca saiu do Distrito em que nasceu."
+  - "Divide um apartamento com sua irm\xE3; \xE9 refer\xEAncia na sua profiss\xE3o;
+    tem um canal de gameplays com 8 inscritos."

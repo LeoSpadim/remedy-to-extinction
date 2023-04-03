@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7478812cbdc743e409e35b3e38c0b6f6, type: 3}
+  m_Name: tutorial5
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Ap\xF3s, ent\xE3o, selecionada a muta\xE7\xE3o que mais representa os sintomas
+    apresentados pelo paciente"
+  - e o tratamento que o senhor achar correto, clique em Gerar Receita.
+  - "Refor\xE7o a aten\xE7\xE3o que o senhor deve dar ao gerar uma receita."
+  - "Pois, ao selecionar uma muta\xE7\xE3o ou um tratamento n\xE3o adequado a esse
+    paciente, haver\xE3o consequ\xEAncias..."
+  - "Dados nossos estudos, percebemos que uma muta\xE7\xE3o, se tratada com o medicamento
+    errado,"
+  - "Causar\xE1 muta\xE7\xF5es imprevisiveis e poss\xEDveis epidemias na popula\xE7\xE3o."
+  - "Tamb\xE9m aqueles pacientes que n\xE3o forem curados, possivelmente ir\xE3o
+    retornar ao consult\xF3rio mais dias."

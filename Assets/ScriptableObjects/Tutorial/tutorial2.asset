@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7478812cbdc743e409e35b3e38c0b6f6, type: 3}
+  m_Name: tutorial2
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Na sua mesa voc\xEA ter\xE1 v\xE1rios objetos que ser\xE3o muito \xFAteis a
+    voc\xEA."
+  - "Para v\xEA-los em detalhes, clique com o bot\xE3o esquerdo do mouse, segure
+    e arraste-os para a por\xE7\xE3o inferior da tela."
+  - "Quando terminar de ler as informa\xE7\xF5es que precisa, pode deixar-lo novamente
+    em sua mesa arrastando o objeto para a por\xE7\xE3o superior da sua tela."
+  - "Vamos come\xE7ar com o Livro de Muta\xE7\xF5es. Ele lhe mostrar\xE1 todas os
+    sintomas que cada muta\xE7\xE3o do Parasita gerou."

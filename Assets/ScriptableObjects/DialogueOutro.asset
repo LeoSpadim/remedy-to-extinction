@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7478812cbdc743e409e35b3e38c0b6f6, type: 3}
+  m_Name: DialogueOutro
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Eu... eu finalmente consegui, acho que tenho dinheiro suficiente para pagar
+    uma moradia melhor para minha fam\xEDlia aqui no Distrito I."
+  - "O Estado continua precisando dos meus servi\xE7os como cientista para pesquisar
+    poss\xEDveis novas muta\xE7\xF5es do parasita."
+  - "Acho que encontrei o equil\xEDbrio nessa luta contra meu arqui-inimigo. Eu e
+    o parasita continuaremos a existir, num confronto que eu quero manter at\xE9
+    quando for poss\xEDvel..."
+  - ...FIM...
